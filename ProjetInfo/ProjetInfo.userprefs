@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6DCB169E-53B4-4819-B322-86AB7B7A63D2}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProjetInfo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjetInfo/MyImage.cs">
+    <Files>
+      <File FileName="ProjetInfo/MyImage.cs" Line="262" Column="1" />
+      <File FileName="ProjetInfo/Pixel.cs" Line="15" Column="9" />
+      <File FileName="ProjetInfo/Program.cs" Line="814" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

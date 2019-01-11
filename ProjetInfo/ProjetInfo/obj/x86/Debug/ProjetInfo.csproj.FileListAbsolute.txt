@@ -1,0 +1,9 @@
+/Users/henri/Projects/ProjetInfo/ProjetInfo/bin/Debug/ProjetInfo.exe
+/Users/henri/Projects/ProjetInfo/ProjetInfo/bin/Debug/ProjetInfo.exe.mdb
+/Users/henri/Projects/ProjetInfo/ProjetInfo/obj/x86/Debug/ProjetInfo.exe
+/Users/henri/Projects/ProjetInfo/ProjetInfo/obj/x86/Debug/ProjetInfo.exe.mdb
+/Users/henri/Desktop/Visual studio/ProjetInfo/ProjetInfo/bin/Debug/ProjetInfo.exe
+/Users/henri/Desktop/Visual studio/ProjetInfo/ProjetInfo/obj/x86/Debug/ProjetInfo.exe
+/Users/henri/Desktop/Visual studio/ProjetInfo/ProjetInfo/bin/Debug/ProjetInfo.pdb
+/Users/henri/Desktop/Visual studio/ProjetInfo/ProjetInfo/obj/x86/Debug/ProjetInfo.csproj.CoreCompileInputs.cache
+/Users/henri/Desktop/Visual studio/ProjetInfo/ProjetInfo/obj/x86/Debug/ProjetInfo.pdb
